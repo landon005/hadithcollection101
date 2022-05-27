@@ -51002,7 +51002,7 @@ Fa(a,b){var s=0,r=A.a7(t.z),q,p,o,n,m,l
 var $async$n_=A.a8(function(c,d){if(c===1)return A.a4(d,r)
 while(true)switch(s){case 0:m=t.bi
 s=3
-return A.a3(A.alv(A.um("https://hadith-web-pro-010.herokuapp.com/api"+a+b),A.aE(["Content-Type","application/json","Accept","application/json"],m,m)),$async$n_)
+return A.a3(A.alv(A.um("http://hadith-web-pro-010.herokuapp.com/api"+a+b),A.aE(["Content-Type","application/json","Accept","application/json"],m,m)),$async$n_)
 case 3:l=d
 m=l.e
 p=A.a9m(A.a8s(m).c.a.i(0,"charset"))
